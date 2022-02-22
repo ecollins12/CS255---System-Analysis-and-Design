@@ -6,4 +6,6 @@ I'm pleased with my ability to design a system that meets a customer's requireme
 
 I had a challenging time with the class diagram as it's something that I haven't done in some time. I also didnt have any code in front of me to pull class information from so that was challenging for me as I usually do have code or classes to view. If I could go back and spend some more time refreshing myself on class diagrams I  think I could improve there.
 
-It was important to 
+It was important to consider the user-experiences (perspectives) of the different types of users that would be interacting with this system when approaching the design of the user experience. When designing the user experience, I made sure to highlight the permissions and functionality that each type of user woud have when interacting with the system. The company also wanted the web site to be easy to navigate from a customer perspective so that was also taken into consideration. 
+
+I'm still figuring out how I approach designing software as I still consider myself a beginner. But I would definitely use all of the UML diagrams that we used for this project in future projects. 
